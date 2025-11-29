@@ -19,7 +19,7 @@ To run this project, you need to install the dependencies:
 pip install SpeechRecognition sounddevice numpy scipy
 ```
 
-## 🚀 Usage
+## 🚀 Usage -->
 
 1.  Run the script:
     ```bash
