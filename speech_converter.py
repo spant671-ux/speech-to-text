@@ -84,7 +84,7 @@ def main():
                     os.remove(audio_file)
             
             # Ask to continue or switch language
-            cont = input("\nPress Enter to continue listening, 'b' to change language, or 'q' to quit: ").strip().lower()
+            cont = input("\nPress Enter to continue listening, 'b' to change language, orrr 'q' to quit: ").strip().lower()
             if cont == 'q':
                 sys.exit()
             elif cont == 'b':
